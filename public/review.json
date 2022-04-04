@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Habib Ahmed",
+        "review": "Good well built nice designed product",
+        "rating": "5 out of 5",
+        "img": "https://thumbs.dreamstime.com/b/handsome-man-beautiful-face-beard-white-background-high-resolution-handsome-man-beautiful-face-beard-115655953.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ayon Khan",
+        "review": "Worked great right out of the box!",
+        "rating": "5 out of 5",
+        "img": 1122
+    },
+    {
+        "id": 3,
+        "name": "Zukfikar Chowdhury",
+        "review": "amazing product for those who need a portable internet experience",
+        "rating": "5 out of 5",
+        "img": 1133
+    },
+    {
+        "id": 4,
+        "name": "Shamim Miah",
+        "review": "Just received it and so far so good! Loved it",
+        "rating": "5 out of 5",
+        "img": 1144
+    },
+    {
+        "id": 5,
+        "name": "Khaled Rahman",
+        "review": "One of the best product I have ever seen",
+        "rating": "5 out of 5",
+        "img": 1155
+    },
+    {
+        "id": 6,
+        "name": "Abeed Hasan",
+        "review": "Amazing product! Keep it up",
+        "rating": "5 out of 5",
+        "img": 1166
+    }
+]
