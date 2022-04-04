@@ -21,7 +21,7 @@ const Home = () => {
                                                   </Col>
 
 
-                                                  <Col className='home-image'>
+                                                  <Col className='home-image img-fluid'>
                                                             <img src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/773cca43-1ee5-4ace-9600-a628f182891a.__CR0,375,3000,2250_PT0_SX800_V1___.jpg" alt="laptop-pictures" />
                                                   </Col>
                                         </Row>
