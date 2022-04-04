@@ -3,6 +3,8 @@ import '../Home/Home.css'
 import { Col, Container, Row } from 'react-bootstrap';
 import Reviews from '../Reviews/Reviews';
 import useReviews from '../../hooks/useReviews';
+import ReviewsPage from '../ReviewsPage/ReviewsPage';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
           const [review, setReview] = useReviews();
@@ -27,13 +29,16 @@ const Home = () => {
                                         <Col>
                                                   <div className="review-container">
                                                             <div>
-                                                                      <h2>Customer Reviews</h2>
+                                                                      <h2>Customer Reviews ({review.length})</h2>
                                                             </div>
                                                             {
-                                                                      review.map(review => <Reviews key={review.id} review={review}></Reviews>)
+                                                                      review.slice(0, 3).map(review => <Reviews key={review.id} review={review}></Reviews>)
                                                             }
 
-                                                            <button className='btn btn-primary mt-2'>See all reviews</button>
+                                                            <Link to="/reviews">
+                                                                      <button className='btn btn-primary mt-2'>See All Reviews</button>
+                                                            </Link>
+
                                                   </div>
                                         </Col>
                               </Container>
