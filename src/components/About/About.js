@@ -4,8 +4,8 @@ const About = () => {
           return (
                     <div>
                               <h2>Laptop Review Site</h2>
-                              <h3>Published on 2022</h3>
-                              <h4>Copy right reserved</h4>
+                              <h5>Contact: laptop@test-reviews.com</h5>
+                              <h6>Copy right reserved by Laptop Review Site</h6>
                     </div>
           );
 };
