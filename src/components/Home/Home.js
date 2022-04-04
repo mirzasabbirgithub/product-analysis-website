@@ -2,14 +2,10 @@ import React, { useEffect, useState } from 'react';
 import '../Home/Home.css'
 import { Col, Container, Row } from 'react-bootstrap';
 import Reviews from '../Reviews/Reviews';
+import useReviews from '../../hooks/useReviews';
 
 const Home = () => {
-          const [review, setReview] = useState([]);
-          useEffect(() => {
-                    fetch('review.json')
-                              .then(res => res.json())
-                              .then(data => setReview(data));
-          }, [])
+          const [review, setReview] = useReviews();
           return (
                     <div>
                               <Container>

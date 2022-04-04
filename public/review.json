@@ -10,35 +10,35 @@
         "id": 2,
         "name": "Ayon Khan",
         "review": "Worked great right out of the box!",
-        "rating": "5 out of 5",
-        "img": 1122
+        "rating": "4 out of 5",
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
     },
     {
         "id": 3,
         "name": "Zukfikar Chowdhury",
         "review": "amazing product for those who need a portable internet experience",
-        "rating": "5 out of 5",
-        "img": 1133
+        "rating": "4 out of 5",
+        "img": "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6"
     },
     {
         "id": 4,
         "name": "Shamim Miah",
         "review": "Just received it and so far so good! Loved it",
         "rating": "5 out of 5",
-        "img": 1144
+        "img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
     },
     {
         "id": 5,
         "name": "Khaled Rahman",
         "review": "One of the best product I have ever seen",
         "rating": "5 out of 5",
-        "img": 1155
+        "img": "https://images.pexels.com/photos/938639/pexels-photo-938639.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
     {
         "id": 6,
         "name": "Abeed Hasan",
         "review": "Amazing product! Keep it up",
-        "rating": "5 out of 5",
-        "img": 1166
+        "rating": "4 out of 5",
+        "img": "https://c6oxm85c.cloudimg.io/cdno/n/q85/https://az617363.vo.msecnd.net/imgmodels/models/MD10001802/thumbnail_img_0728f6b1bce0a182cc8242cd2816a81980b3_thumb.jpg"
     }
 ]
