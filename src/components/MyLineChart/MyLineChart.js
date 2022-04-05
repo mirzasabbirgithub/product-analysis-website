@@ -23,7 +23,7 @@ const MyLineChart = () => {
                                         <Col>
                                                   <h3 className='text-primary'>Investment VS Revenue</h3>
                                                   <AreaChart
-                                                            width={450}
+                                                            width={400}
                                                             height={400}
                                                             data={data}
                                                             margin={{
