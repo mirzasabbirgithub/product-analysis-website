@@ -1,10 +1,10 @@
 ### Project Name : Laptop Review Site
-### Live Link: just for test
+### Live Link: https://comfy-gnome-584e96.netlify.app/
 
 ### About Project
 * Laptop Review Website
-* Get laptop reviews
-* Find best laptop for you
+* Used charts in dashboard 
+* Added reviews of customers 
 * Fully Responsive site
 
 # Getting Started with Create React App
