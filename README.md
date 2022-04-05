@@ -1,3 +1,12 @@
+### Project Name : Laptop Review Site
+### Live Link: just for test
+
+### About Project
+* Laptop Review Website
+* Get laptop reviews
+* Find best laptop for you
+* Fully Responsive site
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
